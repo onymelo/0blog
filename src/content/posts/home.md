@@ -1,9 +1,9 @@
 ---
-title: home
+title: Наконец-то заработало!
 published: 2024-07-09
-description: ''
+description: 'Тестовая страница блога'
 image: ''
-tags: []
+tags: [офтоп, болтовня]
 category: ''
 draft: false 
 ---
